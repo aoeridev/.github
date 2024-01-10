@@ -1,12 +1,10 @@
 <div align="center">
-  <a title="aoeri" target="_blank" rel="noopener noreferrer" href="https://ioeri.dev">
+  <a title="aoeri.dev" target="_blank" rel="noopener noreferrer" href="https://ioeri.dev">
     <img src="https://raw.githubusercontent.com/aoeridev/.github/4e332aa3ba6c0174b2393d1f1a08e65f8fa5a09d/profile/aoeri.svg" alt="aoeri" height="200" />
   </a>
 </div>
 
-<a title="aoeri" target="_blank" rel="noopener noreferrer" href="https://ioeri.dev">
-  <h1 align="center"><strong>aoeri.dev</strong></h1>
-</a>
+<h1 align="center"><strong>aoeri.dev</strong></h1>
 
 <h3 align="center">
   <b>
