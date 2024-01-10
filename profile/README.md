@@ -4,7 +4,9 @@
   </a>
 </div>
 
-<h1 align="center"><strong>ioeri Documentation.</strong></h1>
+<a title="aoeri" target="_blank" rel="noopener noreferrer" href="https://ioeri.dev">
+  <h1 align="center"><strong>aoeri.dev</strong></h1>
+</a>
 
 <h3 align="center">
   <b>
